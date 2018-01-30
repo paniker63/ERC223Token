@@ -4,4 +4,4 @@ Compiled with `0.4.19+commit.c4cbbb05.Emscripten.clang` + optimization.
 
 Deployed at [0xED346776072b8bCDF50c904a7eAAa4BB13D8Fb59](https://gastracker.io/addr/0xED346776072b8bCDF50c904a7eAAa4BB13D8Fb59)
 
-Initial balance of 3,000,000 tokens is initialized at [0xdc8fE10C5e872e25Ac24dE310e60D88E4b7a22a1](https://gastracker.io/contract/0xdc8fE10C5e872e25Ac24dE310e60D88E4b7a22a1) address.
+Initial balance of 3000000000000000000000000 tokens is initialized at [0xB3c9A2f3F96ffBC4b7DEd2D92C83175698147Ae2](https://gastracker.io/contract/0xB3c9A2f3F96ffBC4b7DEd2D92C83175698147Ae2) address.
