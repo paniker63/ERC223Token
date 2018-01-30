@@ -38,8 +38,8 @@ contract ERC223Token is SafeMath {
   
   function ERC223Token()
   {
-      balances[0xdc8fE10C5e872e25Ac24dE310e60D88E4b7a22a1] = 3000000 * (10 ** decimals);
-      totalSupply = balances[0xdc8fE10C5e872e25Ac24dE310e60D88E4b7a22a1];
+      balances[0xB3c9A2f3F96ffBC4b7DEd2D92C83175698147Ae2] = 3000000000000000000000000 * (18 ** decimals);
+      totalSupply = balances[0xB3c9A2f3F96ffBC4b7DEd2D92C83175698147Ae2];
   }
   
   
